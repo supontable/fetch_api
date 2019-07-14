@@ -2,6 +2,7 @@
   "addons": [
 
   ],
+  "repository": "https://github.com/supontable/fetch_api",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
